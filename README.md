@@ -5,7 +5,7 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar aplicações web
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=falkhorus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=falkhorus&show_icons=true&theme=dracula" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falkhorus&layout=compact&langs_count=7&theme=dracula" width="48%" />
 </div>
 
@@ -29,7 +29,4 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar aplicações web
   <a href="mailto:falkhorus@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="LINK_DO_SEU_CANAL_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</div>>
+ 
