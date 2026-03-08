@@ -5,9 +5,8 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar aplicações web
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/falkhorus">
-    <img src="https://metrics.lecoq.io/falkhorus?config_timezone=America%2FSao_Paulo" width="800" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=falkhorus&show_icons=true&theme=dracula" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falkhorus&layout=compact&langs_count=7&theme=dracula" width="48%" />
 </div>
 
 ### 💻 Minhas Habilidades
@@ -23,8 +22,11 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar aplicações web
 
 ### 📬 Como me encontrar
 
-<div>
-  <a href="https://www.linkedin.com/in/victor-hugo-falcao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:falkhorus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
- 
+<div align="center">
+  <a href="https://www.linkedin.com/in/victor-hugo-falcão/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:falkhorus@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
