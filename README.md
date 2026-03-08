@@ -5,8 +5,10 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar aplicações web
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=falkhorus&show_icons=true&theme=dracula" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falkhorus&layout=compact&langs_count=7&theme=dracula" width="48%" />
+  <a href="https://github.com/falkhorus">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=falkhorus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falkhorus&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
 </div>
 
 ### 💻 Minhas Habilidades
