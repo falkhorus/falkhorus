@@ -6,8 +6,7 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar aplicações web
 
 <div align="center">
   <a href="https://github.com/falkhorus">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=falkhorus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falkhorus&layout=compact&langs_count=16&theme=dracula"/>
+    <img src="https://metrics.lecoq.io/falkhorus?config_timezone=America%2FSao_Paulo" width="800" />
   </a>
 </div>
 
