@@ -23,11 +23,8 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar aplicações web
 
 ### 📬 Como me encontrar
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/victor-hugo-falcão/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:falkhorus@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<div>
+  <a href="https://www.linkedin.com/in/victor-hugo-falcao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:falkhorus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
  
