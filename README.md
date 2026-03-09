@@ -6,8 +6,8 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar aplicações web
 
 <div align="center">
   <a href="https://github.com/falkhorus">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=falkhorus&show_icons=true&theme=dracula&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falkhorus&layout=compact&langs_count=7&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=falkhorus&count_private=true&show_icons=true&theme=gruvbox&rank_icon=github&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=falkhorus&hide=HTML&langs_count=8&layout=compact&theme=gruvbox&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
   </a>
 </div>
 
@@ -25,7 +25,7 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar aplicações web
 ### 📬 Como me encontrar
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/victor-hugo-falcão/" target="_blank">
+  <a href="https://br.linkedin.com/in/victorhugofalcao" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:falkhorus@gmail.com">
