@@ -2,7 +2,8 @@
 
 Sou um desenvolvedor apaixonado por tecnologia, focado em criar aplicações web dinâmicas e plataformas que conectem pessoas. Trabalho na construção de interfaces modernas utilizando Angular e o ecossistema JavaScript/TypeScript, além de desenvolver lógicas sólidas e orientadas a objetos com C#. Meu objetivo é unir lógica e criatividade para dar vida a projetos inovadores, explorando áreas que vão desde sistemas corporativos robustos até o universo do desenvolvimento de jogos, sempre buscando evoluir minhas habilidades e gerar impacto positivo através do código.
 
-### 📊 Estatísticas do GitHub
+<!--
+###  Estatísticas do GitHub
 
 <div align="center">
   <a href="https://github.com/falkhorus">
@@ -10,8 +11,9 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar aplicações web
     <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=falkhorus&hide=HTML&langs_count=8&layout=compact&theme=gruvbox&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
   </a>
 </div>
+-->
 
-### 💻 Minhas Habilidades
+###  Minhas Habilidades  
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -22,7 +24,7 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar aplicações web
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-### 📬 Como me encontrar
+###  Como me encontrar
 
 <div align="center">
   <a href="https://br.linkedin.com/in/victorhugofalcao" target="_blank">
