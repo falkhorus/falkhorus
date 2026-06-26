@@ -1,4 +1,4 @@
-# Olá! Podem me chamar de Falkhorus.
+# Oi, Meu nome é Victor Falcão.
 
 Sou um desenvolvedor apaixonado por tecnologia, focado em criar aplicações web dinâmicas e plataformas que conectem pessoas. Trabalho na construção de interfaces modernas utilizando Angular e o ecossistema JavaScript/TypeScript, além de desenvolver lógicas sólidas e orientadas a objetos com C#. Meu objetivo é unir lógica e criatividade para dar vida a projetos inovadores, explorando áreas que vão desde sistemas corporativos robustos até o universo do desenvolvimento de jogos, sempre buscando evoluir minhas habilidades e gerar impacto positivo através do código.
 
