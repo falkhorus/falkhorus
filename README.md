@@ -1,6 +1,6 @@
 # Oi, Meu nome é Victor Falcão.
 
-Sou um desenvolvedor apaixonado por tecnologia, com formação também na área de Artes Visuais pela UFBA. Sou focado em criar aplicações web dinâmicas e plataformas que conectem pessoas. Trabalho na construção de interfaces modernas utilizando Angular e o ecossistema JavaScript/TypeScript, além de desenvolver lógicas sólidas e orientadas a objetos com C#. Minhas formações me permitem unir lógica, criatividade e beleza para dar vida a projetos modernos e inovadores, explorando áreas que vão desde UX/UI, Frontend, até o universo do desenvolvimento de jogos, sempre buscando evoluir e gerar impacto positivo através da minha experiência e habilidades.
+Sou um desenvolvedor apaixonado por tecnologia, com formação também na área de Artes Visuais pela UFBA. Minha missão é criar aplicações web dinâmicas e plataformas que conectem pessoas. Trabalho na construção de interfaces modernas utilizando Angular e o ecossistema JavaScript/TypeScript, além de desenvolver lógicas sólidas e orientadas a objetos com C#. Minhas formações me permitem unir lógica, criatividade e beleza para dar vida a projetos modernos e inovadores, explorando áreas que vão desde UX/UI, Frontend, até o universo do desenvolvimento de jogos, sempre buscando evoluir e gerar impacto positivo através da minha experiência e habilidades.
 
 <!--
 ###  Estatísticas do GitHub
