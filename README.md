@@ -1,6 +1,6 @@
-# Oi, Meu nome é Victor Falcão.
+# Hi, my name is Victor Falcão.
 
-Sou um desenvolvedor apaixonado por tecnologia, com formação também na área de Artes Visuais pela UFBA. Minha missão é criar aplicações web dinâmicas e plataformas que conectem pessoas. Trabalho na construção de interfaces modernas utilizando Angular e o ecossistema JavaScript/TypeScript, além de desenvolver lógicas sólidas e orientadas a objetos com C#. Minhas formações me permitem unir lógica, criatividade e beleza para dar vida a projetos modernos e inovadores, explorando áreas que vão desde UX/UI, Frontend, até o universo do desenvolvimento de jogos, sempre buscando evoluir e gerar impacto positivo através da minha experiência e habilidades.
+I am a passionate technology developer, also holding a degree in Visual Arts from UFBA. My mission is to create dynamic web applications and platforms that connect people. I work on building modern interfaces using Angular and the JavaScript/TypeScript ecosystem, in addition to developing solid, object-oriented logic with C#. My background allows me to merge logic, creativity, and aesthetics to bring modern and innovative projects to life, exploring areas that range from UX/UI and Frontend to the universe of game development, always striving to evolve and generate a positive impact through my experience and skills.
 
 <!--
 ###  Estatísticas do GitHub
@@ -13,7 +13,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com formação também na área 
 </div>
 -->
 
-###  Minhas Habilidades  
+###  My Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -24,7 +24,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com formação também na área 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-###  Como me encontrar
+###  How to find me
 
 <div align="center">
   <a href="https://br.linkedin.com/in/victorhugofalcao" target="_blank">
