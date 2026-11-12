@@ -1,4 +1,4 @@
-# Hi, my name is Victor Falcão.
+# Hi, you can call me Falkhorus.
 
 I am a passionate technology developer, also holding a degree in Visual Arts from UFBA. My mission is to create dynamic web applications and platforms that connect people. I work on building modern interfaces using Angular and the JavaScript/TypeScript ecosystem, in addition to developing solid, object-oriented logic with C#. My background allows me to merge logic, creativity, and aesthetics to bring modern and innovative projects to life, exploring areas that range from UX/UI and Frontend to the universe of game development, always striving to evolve and generate a positive impact through my experience and skills.
 
